@@ -1,8 +1,3 @@
--- Updated
--- Name 1: Laila Mashel
--- G# 1: 01127216
--- Name 2: Cristina Sorrels
--- G# 2: 01064521
 
 --Deleting the tables
 drop table Member cascade constraint;
