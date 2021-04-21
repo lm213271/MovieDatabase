@@ -10,13 +10,7 @@ import java.util.Scanner;
 import java.util.HashMap;
 import java.util.*;
 
-/** Phase 3 
- * This program allows users to access and query the movie streaming database.
- * 
- * @author Cristina Sorrels, Laila Nawabi
- * @date 12/07/2020
- * @course cs450
- */
+
 public class MoviesDatabase{
    // Instance variables
    private String Username;
